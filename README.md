@@ -18,7 +18,7 @@ Fun fact: I enjoy building real-world projects while learning new technologies �
 ## 🛠️ Tech Stack
 
 ### Languages:
-- JavaScript, Python, C++
+- HTML,CSS,JavaScript
 
 ### Frontend:
 - React, Next.js, Tailwind CSS
